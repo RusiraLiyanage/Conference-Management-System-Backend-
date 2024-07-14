@@ -1,7 +1,7 @@
 # Conference Management System (Backend) 
 ### NodeJS + Express Backend
 
-## Group Members (SLIIT "CTSE" subject group members - 3rd year 1st Semester)
+## Group Members (SLIIT "Application Frameworks" subject group members - 3rd year 1st Semester)
 
 ### Thushal Kulathileka
 ### Rusira Liyanage
