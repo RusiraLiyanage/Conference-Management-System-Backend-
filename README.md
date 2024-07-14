@@ -1,5 +1,12 @@
 # Conference Management System (Backend) 
-NodeJS + Express Backend
+### NodeJS + Express Backend
+
+## Group Members (SLIIT "CTSE" subject group members - 3rd year 1st Semester)
+
+### Thushal Kulathileka
+### Rusira Liyanage
+### Kishen Deemad
+### Eishan Dinuka
 
 # Steps before running
 1. run "npm install"
